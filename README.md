@@ -24,7 +24,7 @@ Steps:
     
     b. Note the web address.
     
-3. Upload the assests used to your new GitHub repo.
+3. Upload the assets used to your new GitHub repo.
 
     a. Upload them to the root.
     
