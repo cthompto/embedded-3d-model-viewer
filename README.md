@@ -32,13 +32,13 @@ Steps:
     
 4. Create a new index.html file in your GitHub repo and include the following.
     
-    a. Add the following scripts to the <head>:
+    a. Add the following scripts to the head section:
     
        <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.1.3/webcomponents-loader.js"></script>
        <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
        <script src="https://unpkg.com/resize-observer-polyfill@1.5.1/dist/ResizeObserver.js"></script>
          
-    b. Add the following scripts to the bottom of <body>:
+    b. Add the following scripts to the bottom of the body section:
     
        <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
        <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
